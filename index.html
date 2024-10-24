@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chemistry Virtual Lab</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <style>
+        div{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        a{
+            position: absolute;
+            top: 85%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        a.a2{
+            position: absolute;
+            top: 85%;
+            left: 35%;
+            transform: translate(-50%, -50%);
+        }
+        a.a3{
+            position: absolute;
+            top: 85%;
+            left: 65%;
+            transform: translate(-50%, -50%);
+        }
+        a img{
+            transition: 0.5s;
+        }
+        a img:hover{
+            filter: drop-shadow(0 0 35px var(--clr));
+        }
+    </style>
+</head>
+<body>
+
+    <div class="background"></div>
+    <div><img src="img/chem.gif" alt="" width=40%></div>
+    <div class="header1">
+        <h1>V-LAB</h1>
+    </div>
+    <div class="header2">
+        <h2>POTENSIAL ELEKTRODA STANDAR</h2>
+    </div>
+    <a href="https://youtu.be/oAOq55MPJpM?si=6cTXGI2abO6kUfIw" style="--clr:#f59c8c">
+        <img src="img/button2.png" alt="" width="145px">
+    </a>
+    <a class="a2" href="./pre_test.html" style="--clr:#f59c8c">
+        <img src="img/button1.png" alt="" width="145px">
+    </a>
+    <a class="a3" href="./simulation.html" style="--clr:#f59c8c">
+        <img src="img/button3.png" alt="" width="145px">
+    </a>
+
+</body>
+</html>
