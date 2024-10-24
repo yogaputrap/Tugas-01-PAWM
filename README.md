@@ -18,9 +18,6 @@ simulasi yang realistis.
 Nilai potensial elektroda standar akan ditampilkan secara otomatis berdasarkan
 logam yang dipilih.
 ## Teknologi yang digunakan
-• Frontend: HTML, CSS, JavaScript (Framework pilihan seperti React.js atau Vue.js untuk
-interaktivitas simulasi).
-• Video Integration: Platform penyedia video seperti YouTube atau Vimeo untuk materi
-video.
-• Simulasi Interaktif: Penerapan fitur drag and drop dengan library JavaScript seperti
-HTML5 Drag and Drop API untuk memberikan pengalaman interaktif yang dinamis.
+• Frontend: HTML, CSS, JavaScript (Framework pilihan seperti React.js atau Vue.js untuk interaktivitas simulasi).
+• Video Integration: Platform penyedia video seperti YouTube atau Vimeo untuk materi video.
+• Simulasi Interaktif: Penerapan fitur drag and drop dengan library JavaScript seperti HTML5 Drag and Drop API untuk memberikan pengalaman interaktif yang dinamis.
