@@ -11,9 +11,9 @@ Setelah menyelesaikan pre-test, pengguna dapat menonton video pembelajaran
 yang menjelaskan konsep dasar potensial elektroda standar, termasuk
 bagaimana nilainya dihitung dan pentingnya dalam elektrokimia.
 3. Simulasi Laboratorium:
-o Pengguna dapat melakukan eksperimen virtual dengan fungsi drag and drop.
+Pengguna dapat melakukan eksperimen virtual dengan fungsi drag and drop.
 Mereka bisa memilih logam elektroda, menghubungkannya ke rangkaian, dan
 mengamati nilai potensial elektroda standarnya dalam lingkungan laboratorium
 simulasi yang realistis.
-o Nilai potensial elektroda standar akan ditampilkan secara otomatis berdasarkan
+Nilai potensial elektroda standar akan ditampilkan secara otomatis berdasarkan
 logam yang dipilih.
